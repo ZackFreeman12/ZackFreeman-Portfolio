@@ -4,12 +4,17 @@ I have worked on and completed many personal and group projects that I am proud 
 is food, I love to eat and love to cook. Training under some great chefs I have become an adept professional cook
 working in the industry for 6+ years.</p>
 
-<h1 align = center>Testing Repo</h1>
+<h1 align = center color = green >Testing Repo</h1>
+//repolink
 
-<h1 align = center>Projects</h1>
-<h2 align = center>Discord Dice Game Bot</h2>
-<p>Gamba is a discord bot created to play gambling games in a discord server. It uses a custom API to talk to an SQLite database to store and retrieve users data</p>
-<h3 align = center>Code Repo</h3>
-<p>https://github.com/ZackFreeman12/GambaBot</p>
+<h1 align = center color = lightblue>Projects Repo</h1>
+//repo link
+<p>Projects range from Web APIs with NodeJS to Unity Games and Mobile apps. This is a full list of links to all repos</p>
+//Gamba link
+//Chadbot link
+//Chica run link
+//me app link
+//capstone link
+
 
 
