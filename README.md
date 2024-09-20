@@ -7,7 +7,7 @@ and other game stats like winning streaks and total wins. Gamba can be added to 
 is recommended to give the bot its own text channel due to the quick games and users repeating commands
 quickly.
 
-<img src= https://i.imgur.com/GMHrUgH.png>
+<img align = center src= https://i.imgur.com/GMHrUgH.png>
 
 <h2 align = center>Tech Stack</h2>
 - NodeJS
