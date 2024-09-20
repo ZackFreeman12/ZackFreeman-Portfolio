@@ -5,11 +5,13 @@ is food, I love to eat and love to cook. Training under some great chefs I have 
 working in the industry for 6+ years.</p>
 
 <h1 align = center>Testing Repo 🔬</h1>
-//repolink
+<p>This repository is a collection of all the testing code and documentation from my projects.
+It is a mix of manual and automated testing using different tools.</p>
+//repo link
 
 <h1 align = center>Projects Repo ⌨️</h1>
-//repo link
 <p>Projects range from Web APIs with NodeJS to Unity Games and Mobile apps. This is a full list of links to all repos</p>
+//repo link
 //Gamba link
 //Chadbot link
 //Chica run link
