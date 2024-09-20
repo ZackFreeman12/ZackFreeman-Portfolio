@@ -20,7 +20,7 @@ quickly.
   </ul>
 Gamba uses a custom API written in Node to communicate with the SQLite database 
 The API server is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
-![Database](mL9OQAU.png)
+![Database](/mL9OQAU.png)
 
 <h2>Demo</h2>
 https://www.youtube.com/watch?v=wyFKvLZv48A
