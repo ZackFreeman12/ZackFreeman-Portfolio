@@ -1,19 +1,24 @@
-<h1 align = center>Discord Dice Game Bot</h1>
+<h1 align = center>Discord Dice Game Bot 📈</h1>
 
-## Description
-Gamba is a discord bot created to play gambling games in a discord server.
-Currently deployed in multiple discord servers!
+<h2 align = center>Project Overview</h2>
+Gamba is a Discord bot created for the purpose of entertaining users by letting them wager points
+on dice games. Data persistence is achived by registering users in a database and storing their points
+and other game stats like winning streaks and total wins. Gamba can be added to any Discord server, it
+is recommended to give the bot its own text channel due to the quick games and users repeating commands
+quickly.
 
 ![Discord screenshot](https://i.imgur.com/GMHrUgH.png)
 
-## Tech Stack
-Gamba uses the Discord.js library in Node.js to connect to the Discord client.
-A Node.js REST API was created using Express to connect to a SQLite database to perform CRUD on all users data.
+<h2 align = center>Tech Stack</h2>
+- NodeJS
+- RestfulAPI
+- SQLite
+- Discord.js
+Gamba uses a custom API written in Node to communicate with the SQLite database 
+The API server is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
 
-REST API is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
-
-## Demo
-Here is a demo video to see Gamba in action!
+<h2>Demo</h2>
+//link
 
 
 
