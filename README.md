@@ -1,8 +1,19 @@
-<h1 align = center>Who am I? 🍜👨‍💻👨‍🍳</h1>
-<p align = center>Hello! My name is Zack Freeman. I am a software developer and tester with a diploma from Mohawk College.
-I have worked on and completed many personal and group projects that I am proud to share here. My other passion
-is food, I love to eat and love to cook. Training under some great chefs I have become an adept professional cook
-working in the industry for 6+ years.</p>
+<h1 align = center>Discord Dice Game Bot</h1>
+
+## Description
+Gamba is a discord bot created to play gambling games in a discord server.
+Currently deployed in multiple discord servers!
+
+![Discord screenshot](https://i.imgur.com/GMHrUgH.png)
+
+## Tech Stack
+Gamba uses the Discord.js library in Node.js to connect to the Discord client.
+A Node.js REST API was created using Express to connect to a SQLite database to perform CRUD on all users data.
+
+REST API is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
+
+## Demo
+Here is a demo video to see Gamba in action!
 
 
 
