@@ -12,10 +12,12 @@ quickly.
 
 
 <h2 align = center>Tech Stack</h2>
-- NodeJS
-- RestfulAPI
-- SQLite
-- Discord.js
+  <ul>
+    <li>NodeJS</li>
+    <li>RestfulAPI</li>
+    <li>SQLite</li>
+    <li>Discord.js</li>
+  </ul>
 Gamba uses a custom API written in Node to communicate with the SQLite database 
 The API server is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
 
