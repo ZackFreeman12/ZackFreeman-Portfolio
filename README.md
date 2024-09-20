@@ -6,7 +6,7 @@ on dice games. Data persistence is achived by registering users in a database an
 and other game stats like winning streaks and total wins. Gamba can be added to any Discord server, it
 is recommended to give the bot its own text channel due to the quick games and users repeating commands
 quickly.
-<div align = center padding = 5>
+<div align = center>
   <img src= https://i.imgur.com/GMHrUgH.png>
 </div>
 
