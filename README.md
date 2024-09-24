@@ -11,12 +11,12 @@ It is a mix of manual and automated testing using different tools.</p>
 
 <h1 align = center>Projects ⌨️</h1>
 <p>Projects range from Web APIs with NodeJS to Unity Games and Mobile apps. This is a full list of links to all branches.</p>
-//repo link
-//Gamba link
-//Chadbot link
-//Chica run link
-//me app link
-//capstone link
+<ul>
+  <li>Discord dice game bot (https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/GambaBot)</li>
+  <li>Discord chatbot (https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/Chadbot)</li>
+  <li>Unity 2D project (https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/Capstone-Quest)</li>
+  <li>Android dating app prototype for client (https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/MeApp)</li>
+</ul>
 
 
 
