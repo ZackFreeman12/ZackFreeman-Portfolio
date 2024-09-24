@@ -1,27 +1,11 @@
-# Mobile and Games Portfolio
-This Repo serves as a portfolio of all mobile and game dev projects I have worked on.
-Below you will find links to each project with thier own branch where you can view the source code and a break down of the project whit images and videos!
+<div align= center>
+  <h1>Capstone Quest Unity 2D Project</h1>
+  <h2>Project Overview</h2>
+  <p>Capstone Quest was a large school project developed alone to learn the AGILE process of plan, design, develop, test, deploy, and review.
+  This repo includes all planning and design documents detailing the scope and specific design elements of the game as well as testing documentation.
+  <p>
 
-
-# Projects
-## Chica Run - Unity 3D mobile game
-//TODO 
-
-//Insert image for Chica Run
-
-//Insert Link and description
-
-## Me App - Android dating app prototype made for client
-//TODO 
-
-//Insert image for Me App
-
-//Insert Link and description
-
-## Capstone Quest - Unity 2D PC game
-//TODO 
-
-//Insert image for Capstone Quest
-
-//Insert Link and description
-
+  <ul>
+    <li>Project Scope doc https://docs.google.com/document/d/1baFBeT4X_0p7Z5xOLqxtdW9l3Dxd8CGwIbX8k14zK1k/edit</li>
+  </ul>
+</div>
