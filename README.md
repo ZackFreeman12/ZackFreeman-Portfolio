@@ -12,7 +12,7 @@
   </ul>
 
   <h2>Access source code</h2>
-  <p>To view the source code follow this file path in the folder. MeApp11\app\src\main\java\ca\mohawk\meapp1_0</p>
+  <p>To view the source code follow this file path in the folder. MeApp11/app/src/main/java/ca/mohawk/meapp1_0</p>
 </div>
 
 
