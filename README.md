@@ -6,7 +6,7 @@
   <p>
 
   <ul align= left>
-    <li>Project Scope doc [https://docs.google.com/document/d/1baFBeT4X_0p7Z5xOLqxtdW9l3Dxd8CGwIbX8k14zK1k/edit](https://docs.google.com/document/d/1o0XR5RNl9dbnhcmHHdO8DpObHt1BS88vzJsfY0tUI0U)</li>
+    <li>Project Scope doc https://docs.google.com/document/d/1o0XR5RNl9dbnhcmHHdO8DpObHt1BS88vzJsfY0tUI0U</li>
     <li></li>
   </ul>
 </div>
