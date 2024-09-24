@@ -19,7 +19,7 @@ quickly.
     <li>Discord.js</li>
   </ul>
 Gamba uses a custom API written in Node to communicate with the SQLite database 
-The API server is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
+The API server is hosted on my own machine and is sent requests from my own machine which is why it points to localhost.\n
 
 This is the database schema
 <div align = center>
