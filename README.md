@@ -20,6 +20,8 @@ quickly.
   </ul>
 Gamba uses a custom API written in Node to communicate with the SQLite database 
 The API server is hosted on my own machine and is sent requests from my own machine which is why it points to localhost
+
+This is the database schema
 <div align = center>
   <img src= https://github.com/ZackFreeman12/ZackFreeman-Portfolio/blob/GambaBot/mL9OQAU.png>
 </div>
