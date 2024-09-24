@@ -7,7 +7,8 @@
   Fully functional SMS chat between users was implemented using the ChatStream library. 
   MeApp has since then been utilized by a happy client to pursue their future endeavors with investors.</p>
   <ul align=left>
-    <li>Design and planning documentation https://docs.google.com/document/d/1spc8t17skdnH5fvFgSxh-guEHYzK4FHBvqcaxijEZhI/edit</li>
+    <li>Design and planning documentation https://docs.google.com/document/d/1spc8t17skdnH5fvFgSxh-guEHYzK4FHBvqcaxijEZhI</li>
+    <li>Final report https://docs.google.com/document/d/1HyBHD_WmYJEYCTGrK8iIgOkpCNv3ZKnEmdlpAMPkBW4</li>
   </ul>
 </div>
 
