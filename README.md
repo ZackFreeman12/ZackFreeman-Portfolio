@@ -5,7 +5,7 @@
   This repo includes all planning and design documents detailing the scope and specific design elements of the game as well as testing documentation.
   <p>
 
-  <ul>
+  <ul align= left>
     <li>Project Scope doc https://docs.google.com/document/d/1baFBeT4X_0p7Z5xOLqxtdW9l3Dxd8CGwIbX8k14zK1k/edit</li>
   </ul>
 </div>
