@@ -8,5 +8,7 @@
   <ul align= left>
     <li>Project plans and design https://docs.google.com/document/d/1o0XR5RNl9dbnhcmHHdO8DpObHt1BS88vzJsfY0tUI0U</li>
     <li>Updated final report https://docs.google.com/document/d/1afb6CWdFNRUxVWPQ3IS-JCIcxW4A8ghdNfuCQNSTOSM </li>
+    <li>Download link https://thelegitcow.itch.io/capstone-quest</li>
+    <li>Demo </li>
   </ul>
 </div>
