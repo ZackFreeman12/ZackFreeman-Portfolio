@@ -29,6 +29,7 @@ This is the database schema
 
 <h2 align = center>Testing</h2>
 [Test Cases](https://docs.google.com/spreadsheets/d/1Yf7WsJ--CKpGeowe3_MGfpVgLCHumU3zBggoNspn51g/edit?gid=0#gid=0)
+
 [Automated Tests](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/GambaBot/Tests)
 
 
