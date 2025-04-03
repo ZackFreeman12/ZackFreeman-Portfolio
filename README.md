@@ -6,7 +6,7 @@
 A desktop application built with Python and Tkinter to monitor key system health metrics in real-time, featuring threshold-based alerts via GUI, sound, and email.
 
 ![Main GUI](<python_iIrgRQ0q31.png>)
-![Email Config](<python_Qoe1G75mGs.png>)
+![Email Config](<python_j3AcY5O1i4.png>)
 
 ## Overview
 
