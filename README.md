@@ -27,7 +27,7 @@ Gamba can be added to any Discord server. For the best user experience, it's rec
 *   **Bot Framework:** [Discord.js](https://discord.js.org/)
 *   **Runtime:** [Node.js](https://nodejs.org/)
 *   **Database:** [SQLite](https://www.sqlite.org/index.html)
-*   **API:** Custom RESTful API (Node.js/Express - *assumed*) for database interaction.
+*   **API:** Custom RESTful API (Node.js/Express) for database interaction.
 
 ## Architecture
 
@@ -124,9 +124,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 6.  Open a Pull Request.
 
 Please ensure your code adheres to the existing style and add tests for new features where applicable.
-
-*(Original Author Certification Note: "StAuth10222: I Zack Freeman, 000781330 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else." - This certification belongs in the header of the relevant source code files, not directly in the README.)*
-
-## License
-
-(Optional: Add license information here, e.g., MIT License)
