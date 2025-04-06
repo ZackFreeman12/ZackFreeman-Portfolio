@@ -25,6 +25,14 @@ Here are some of the projects I've worked on.
 
 ---
 
+### 🐍 Python Projects (IT)
+
+*   **[Python System Health Monitor - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/Python-System-Health-Monitor)**
+*   A desktop application built with Python and Tkinter to monitor key system health metrics in real-time,
+*   featuring threshold-based alerts via GUI, sound, and email.
+
+---
+
 ### 🌐 Web & API Projects
 
 *   **[Discord Dice Game Bot (GambaBot) - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/GambaBot)**
@@ -49,14 +57,6 @@ Here are some of the projects I've worked on.
 *   **[Android Dating App Prototype (MeApp) - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/MeApp)**
     *   A functional prototype for an Android dating application developed for a client requirement.
     *   *(Add 1-2 more specific details if possible - e.g., key features implemented like profiles, matching logic, messaging? Built with Java or Kotlin?)*
-
----
-
-### 🐍 Python Projects
-
-*   *(This section is ready for your Python projects! Add links and descriptions here when you have Python projects to showcase.)*
-    *   Example: `**[Project Title] - [Link to Repo/Branch]**`
-        *   `A brief description of the Python project.`
 
 ---
 
