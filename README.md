@@ -28,8 +28,8 @@ Here are some of the projects I've worked on.
 ### 🐍 Python Projects (IT)
 
 *   **[Python System Health Monitor - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/Python-System-Health-Monitor)**
-*   A desktop application built with Python and Tkinter to monitor key system health metrics in real-time,
-*   featuring threshold-based alerts via GUI, sound, and email.
+      *   A desktop application built with Python and Tkinter to monitor key system health metrics in real-time,
+      *   featuring threshold-based alerts via GUI, sound, and email.
 
 ---
 
