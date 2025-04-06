@@ -45,17 +45,19 @@ Here are some of the projects I've worked on.
 ### 🎮 Game Development Projects
 
 *   **[Unity 2D Project (Capstone-Quest) - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/Capstone-Quest)**
-    *   *(Add a brief 1-2 sentence description of this project. What kind of game is it? What were the key features or learning objectives?)*
+    *   This application was designed and developed by myself for my end of program Capstone project. Heavy inspiration was derived from the game Slay the Spire.
     *   Developed using the Unity Engine and C#.
+    *   Turn-based combat system, much like JRPGs such as Final Fantasy or Pokémon, is the main gameplay loop the player can expect
+    *   Algorithm will generate loot, abilities, enemy types, combat level backgrounds, and the map levels for a unique experience
 
 ---
 
 ### 📱 Mobile Projects
 
 *   **[Android Dating App Prototype (MeApp) - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/MeApp)**
-    *   A functional prototype for an Android dating application developed for a client requirement, worked on in a team of four. This is what i was responisble for
-    *   * Implemented a local database system using sqlite in the android framework to perform CRUD actions on user data to create profiles
-        * Full SMS functionality with other users implemented with chatstream
+    *   A functional prototype for an Android dating application developed for a client requirement.
+    *   Implemented a local database system using sqlite in the android framework to perform CRUD actions on user data to create profiles
+    *   Full SMS functionality with other users implemented with chatstream
 
 ---
 Thanks for stopping by!
