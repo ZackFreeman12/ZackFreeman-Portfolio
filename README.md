@@ -85,5 +85,3 @@ The bot currently embodies the persona of "Chad," described as having a big ego,
 The bot includes the necessary boilerplate (`interactionCreate` event listener and command loading logic) to handle Discord Slash Commands. Any `.js` files placed in the `/commands` directory that export a valid command structure will be registered and usable. You will need to create these command files yourself based on the `discord.js` documentation.
 
 ---
-
-*Self-Certification Note: The comment `/* "StAuth10222: I Zack Freeman, 000781330 certify that this material is my original work..." */` is typically included in source code files for academic integrity purposes and is not usually part of a project's README.*
