@@ -8,20 +8,18 @@ Beyond the keyboard, I have a deep appreciation for food – both cooking and ea
 
 ## 🛠️ Skills & Technologies
 
-*   **Languages:** JavaScript, C# *(Add others like Python, Java/Kotlin if applicable)*
+*   **Languages:** JavaScript, C#, Python, Java, HTML, CSS
 *   **Backend & APIs:** Node.js, RESTful APIs
-*   **Discord Bots:** Discord.js
 *   **Game Development:** Unity Engine
-*   **Mobile:** Android Development *(Specify Java/Kotlin if known)*
-*   **Databases:** SQLite *(Add others if applicable)*
-*   **Tools & Platforms:** Git, GitHub, VS Code, Postman *(Add others)*
-*   **Testing:** Manual Testing, Test Case Design *(Add automation frameworks if applicable)*
+*   **Mobile:** Android Development(Java)
+*   **Databases:** SQLite, SQL
+*   **Tools & Platforms:** Git, GitHub, VS Code, Postman
+*   **Testing:** Manual Testing, Test Case Design, Automated Testing
+*    **Discord Bots:** Discord.js
 
 ## 🚀 Projects
 
 Here are some of the projects I've worked on.
-
-*(Please note: Some of these projects are currently hosted as branches within this main portfolio repository. Ideally, they would each reside in their own dedicated repository.)*
 
 ---
 
@@ -55,16 +53,11 @@ Here are some of the projects I've worked on.
 ### 📱 Mobile Projects
 
 *   **[Android Dating App Prototype (MeApp) - View Branch](https://github.com/ZackFreeman12/ZackFreeman-Portfolio/tree/MeApp)**
-    *   A functional prototype for an Android dating application developed for a client requirement.
-    *   *(Add 1-2 more specific details if possible - e.g., key features implemented like profiles, matching logic, messaging? Built with Java or Kotlin?)*
+    *   A functional prototype for an Android dating application developed for a client requirement, worked on in a team of four. This is what i was responisble for
+    *   * Implemented a local database system using sqlite in the android framework to perform CRUD actions on user data to create profiles
+        * Full SMS functionality with other users implemented with chatstream
 
 ---
-
-## 📫 Get In Touch
-
-*   **LinkedIn:** [Your LinkedIn Profile URL (Optional)]
-*   **Email:** [Your Professional Email Address (Optional)]
-
 Thanks for stopping by!
 
 
